@@ -1,3 +1,15 @@
+# Some useful resources
+
+Wikipedia article
+https://en.wikipedia.org/wiki/Flow-based_programming
+
+From the "inventor"
+http://www.jpaulmorrison.com/fbp/
+
+A GitHub list
+https://github.com/samuell/awesome-fbp
+
+
 # Comparison of FBP environments
 
 ## Node-RED
