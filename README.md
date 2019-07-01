@@ -7,9 +7,10 @@ Pros
 - excellent UI for editor
 - easy to run locally, in Docker, etc. etc. (not tied to a service)
 - made for IoT
+- plenty of user-contributed components
 
 Cons
-- Not a lot of built-in media related components
+- not many media-specific components (yet) but definitely web, streaming, etc.
 
 ## NoFlo
 Pros
