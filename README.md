@@ -14,6 +14,7 @@ https://github.com/samuell/awesome-fbp
 
 ## Node-RED
 https://nodered.org/
+
 Pros
 - supported by IBM
 - default installed on Raspbian OS
@@ -24,6 +25,8 @@ Pros
 
 Cons
 - not many media-specific components (yet) but definitely web, streaming, etc.
+
+Check out https://github.com/Streampunk/node-red-contrib-dynamorse-core which appears to allow transformations (using CPU and GPU operations) on video and audio streams, including SDI via BlackMagic!
 
 ## NoFlo
 https://noflojs.org/
