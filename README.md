@@ -26,7 +26,10 @@ Pros
 Cons
 - not many media-specific components (yet) but definitely web, streaming, etc.
 
-Check out https://github.com/Streampunk/node-red-contrib-dynamorse-core which appears to allow transformations (using CPU and GPU operations) on video and audio streams, including SDI via BlackMagic!
+Interesting examples
+- Check out https://github.com/Streampunk/node-red-contrib-dynamorse-core which appears to allow transformations (using CPU and GPU operations) on video and audio streams, including SDI via BlackMagic!
+- OpenCV motion detection on video, generating new encoded video as output (with overlays) https://flows.nodered.org/flow/c172899be094e2cf37a92f32b7c47635
+
 
 ## NoFlo
 https://noflojs.org/
