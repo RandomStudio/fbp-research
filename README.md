@@ -46,3 +46,8 @@ https://www.totaljs.com/flow/
 
 Cons
 - seems to be tied into a kind of platform, https://www.totaljs.com/framework/
+
+# Alternatives to FBP
+An FBP is a specific type of acyclic directed graph, with named ports, etc.
+
+A similar approach, though not following strict FBP protocol, is used with the upcoming [Gantz](https://github.com/nannou-org/gantz/issues/4) programming environment being built alongside the creative coding framework [Nannou](https://github.com/nannou-org/nannou)
